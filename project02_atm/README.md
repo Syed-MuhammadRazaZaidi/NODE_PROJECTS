@@ -1,6 +1,7 @@
 To use this atm project in command prompt:-
 
-Username = Raza
+npx 786-my-atm
 
+Username = Raza
 
 Password = 123
