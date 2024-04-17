@@ -1,5 +1,5 @@
 #! /usr/bin/env node
-// project03_todo_list:-
+
 import chalk from "chalk";
 import inquirer from "inquirer";
 console.log(chalk.cyan("Welcome To The Word Counter Game!"));
